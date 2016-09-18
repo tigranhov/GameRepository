@@ -1,0 +1,3 @@
+Property Group is a way of sharing same level between different attributes of different Skills.
+
+For example [Player Property Group](/Player Property Group.md) represents player specific attributes and it ca contain [Movement Burst Skill](/Movement Burst Skill.md)'s property [Passive Movement Speed](/Passive Movement Speed.md) and [Health Regeneration Skill](/Health Regeneration Skill.md)'s property [Passive Health Regen Speed](/Passive Health Regen Speed.md).  Each Property Group's parameters share same level as Property Group. Property Groups always have underlying data container.

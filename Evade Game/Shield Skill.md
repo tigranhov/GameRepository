@@ -1,0 +1,2 @@
+Player has a passive shield. Shield protects player from all damage. It can be recharged by reaching charging points in the game.\
+By leveling up Shield Skill player increases Max Amount of shield, also speed at which it is recharged.

@@ -1,0 +1,1 @@
+Gold is collected in game by mining special gold nodes appearing in games. Staying in close proximity of gold mine starts the mining process. By leveling up Gold Mine Skill player can increase gold mining speed and range at which gold mining process begins.

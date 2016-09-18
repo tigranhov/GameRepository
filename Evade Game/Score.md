@@ -1,0 +1,1 @@
+Score is updated with every enemy destroyed (evaded). Each enemy has its own score which is multiplied by predefined multiplier.

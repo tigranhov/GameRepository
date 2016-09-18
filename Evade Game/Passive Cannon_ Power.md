@@ -1,0 +1,1 @@
+[Passive Cannon](/Passive Cannon.md)'s Power defines how many projectiles a Cannon fires and their power.
